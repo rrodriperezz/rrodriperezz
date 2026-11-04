@@ -1,6 +1,6 @@
 # Rodrigo Pérez · DevOps & Cloud Engineer
 
-**I make AWS infrastructure safe, cheap and boring to run in production.** Terraform, Kubernetes and CI/CD for a national bank and for 10+ companies running on AWS.
+**I make AWS infrastructure safe, cheap and boring to run in production.** CI/CD, Kubernetes and security scanning for a national bank; AWS and infrastructure as code for 10+ companies.
 
 AWS Certified Solutions Architect – Associate · Montevideo, Uruguay (UTC-3, overlaps US business hours)
 
