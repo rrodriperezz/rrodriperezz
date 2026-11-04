@@ -11,16 +11,6 @@ AWS Certified Solutions Architect – Associate · Montevideo, Uruguay (UTC-3, o
 - **Took a critical deployment from 2-9 minutes down to about 1 minute,** measured against production logs.
 - **3 years running AWS in production for 10+ clients at once** (EC2, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch), on-call shifts included.
 
-## What I can do for you
-
-| Problem | What I deliver |
-|---|---|
-| "Is my AWS account secure?" | Read-only review of IAM, S3, security groups, secrets and logging, with a prioritized fix list |
-| "My AWS bill keeps growing" | Cost review: oversized instances, idle resources and forgotten services |
-| "Our Terraform is a mess" | State, modules and variables cleaned up, plus CI that runs `fmt`, `validate` and security checks on every PR |
-| "Deploys depend on one person's laptop" | CI/CD pipeline with tests, image builds and safe rollouts on GitHub Actions, GitLab CI or Jenkins |
-| "We want Kubernetes but don't know where to start" | A reproducible cluster with ingress, TLS, autoscaling and a security baseline |
-
 ## Featured projects
 
 - **[terraform-localstack-pipeline](https://github.com/rrodriperezz/terraform-localstack-pipeline):** serverless AWS event pipeline (EventBridge, SQS, Lambda, DynamoDB) in Terraform, with a dead-letter queue, alarms, least-privilege IAM and end-to-end tests against LocalStack. CI runs checkov, trivy and gitleaks.
