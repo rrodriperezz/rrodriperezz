@@ -4,8 +4,6 @@
 
 AWS Certified Solutions Architect – Associate · Montevideo, Uruguay (UTC-3, overlaps US business hours)
 
-> **Open to freelance work.** Built your infrastructure with ChatGPT, Claude or Cursor and not sure it is production-ready? I review AWS accounts and Terraform code, rank every risk by severity and fix what matters first. [Get in touch on LinkedIn](https://www.linkedin.com/in/rrodriperezz/).
-
 ## Track record
 
 - **Leading DevOps adoption from scratch at Banco República (BROU),** Uruguay's largest bank: CI/CD, monitoring, security scanning and AI-assisted operations, in an environment where a bad deploy is not an option.
