@@ -2,7 +2,7 @@
 
 **I make AWS infrastructure safe, cheap and boring to run in production.** CI/CD, Kubernetes and security scanning for a national bank; AWS and infrastructure as code for 10+ companies.
 
-AWS Certified Solutions Architect – Associate · Montevideo, Uruguay (UTC-3, overlaps US business hours)
+AWS Certified Solutions Architect – Associate · Montevideo, Uruguay
 
 ## Track record
 
